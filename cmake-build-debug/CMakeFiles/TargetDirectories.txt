@@ -1,0 +1,3 @@
+/home/eleanor/cscassignment52018/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eleanor/cscassignment52018/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eleanor/cscassignment52018/cmake-build-debug/CMakeFiles/cscassignment52018.dir

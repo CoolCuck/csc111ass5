@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/cscassignment52018.dir/unique.c.o  -o cscassignment52018 
